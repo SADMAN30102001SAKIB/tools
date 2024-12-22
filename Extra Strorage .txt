@@ -1,0 +1,16 @@
+C:\MinGW
+C:\Users\Asus\.gradle
+C:\Users\Asus\AppData\Local\CapCut\User Data\Cache
+C:\Users\Asus\AppData\Local\CapCut\Apps
+C:\Users\Asus\AppData\Local\Microsoft\vscode-cpptools
+C:\Users\Asus\AppData\Roaming\Code\CachedExtensionVSIXs
+
+C:\Windows\Temp\
+%TEMP%\
+C:\Windows\SoftwareDistribution\Download
+C:\Windows\Prefetch\
+%LocalAppData%\Microsoft\Windows\Explorer\
+%LocalAppData%\Microsoft\Edge\User Data\Default\Cache\Cache_Data
+
+ipconfig /flushdns
+
